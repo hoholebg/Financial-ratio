@@ -1,0 +1,20 @@
+Calcule pour chaque année l’EBITDA selon la formule suivante :
+Operating profit (P&L) + Depreciation (cash flow) + Amortissement (cash flow) + Impairments (cash flow) + Employee benefits compensation (cash flow) + other non monetary items
+
+
+Pour chaque année, affiche dans un tableau :
+
+
+L’EBITDA calculé avec cette formule
+
+
+Le détail du calcul ayant permis d’obtenir cet EBITDA (un calcul détaillé par année, présenté sur une ligne)
+
+
+L’EBITDA ajusté communiqué par l’entreprise
+
+
+La différence entre les deux
+
+
+Le tableau doit être l’unique résultat affiché.
